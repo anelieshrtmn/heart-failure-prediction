@@ -1,6 +1,6 @@
 # heart-failure-prediction
 
-##Tentang Data
+## Tentang Data
 
 age: Usia pasien
 
